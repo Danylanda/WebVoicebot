@@ -24,7 +24,7 @@ header label{
   display: block;
   color: #fff;
   height: 50px;
-  text-decoration:none;
+  text-decoration: underline;
   padding: 15px;
   border-bottom: 1px solid rgba(255,255,255,0.3);
 }

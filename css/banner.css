@@ -7,12 +7,12 @@
   height: 100%;
 }
 
-#banner.contenedor{
+#banner .contenedor{
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translateX(-50%) translateY(-50%);
-  color: #fff;
+  color: rgb(98, 13, 51);
 }
 
 #banner h2{
@@ -22,11 +22,11 @@
 #banner a{
   display: block;
   width: 100px;
-  color: #fff;
+  color: rgb(98, 13, 51);
   text-decoration: none;
   padding: 7px;
   margin-top: 10px;
-  border: 3px solid #fff;
+  border: 3px solid rgb(98, 13, 51);
 }
 
 #border a:hover{

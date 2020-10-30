@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css2?family=Open+Sans);
 @import url(menu.css);
-@@import url(banner.css);
-@@import url(blog.css);
+@import url(banner.css);
+@import url(blog.css);
 
 *{
   margin: 0;
